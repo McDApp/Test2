@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+    <widget xmlns = "http://www.mcdonogh.org"
+        xmlns:gap = "http://www.mcdonogh.org"
+        id        = "com.mcdonogh.example"
+        versionCode="10" 
+        version   = "0.0.1">
+
+
+    <name>McD App Example</name>
+
+    <description>
+        Test for McD App. 
+    </description>
+
+
+</widget>
